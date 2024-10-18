@@ -1,4 +1,4 @@
 # Weather-App
-School project, weather app
+Weather app project for school course
 
-I have coded the frontend part of this application.
+I've done the frotend of this project
